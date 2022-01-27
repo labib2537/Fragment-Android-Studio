@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="qOne">1. What is the longest sea beach in the world?</string>
+    <string name="qTwo">2. Who is the owner of android OS?</string>
+    <string name="qThree">3. Who is the CEO of Google?</string>
+    <string name="qFour">4. Which one of the following is not a web browser?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="result">Total Marks</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
